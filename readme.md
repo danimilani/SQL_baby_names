@@ -38,6 +38,7 @@ Result: <br>
 
 4. Select a list of baby names that end with the letter 'a' using LIKE
 <br>
+
 SQL Query: <br>
 ![Alt text](/screenshots/baby4.JPG)
 
