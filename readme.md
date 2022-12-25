@@ -1,11 +1,18 @@
-SQL PROJECT - AMERICAN BABY NAMES
+# SQL PROJECT - AMERICAN BABY NAMES
 
-Project in SQL to analyze how have American baby name changed since 1920 and understand the trends.
+## Project in SQL to analyze how have American baby name changed since 1920 and understand the trends.
 
-Scope:
+## Scope:
 
 
 1. Check which names stood out by summinjg the total babies with each first name, grouping by those names that appears in all 101 years
+
+SQL Query:
+![Alt text](/screenshots/baby1.JPG "Optional title")
+
+Result:
+![Alt text](/screenshots/baby1a.JPG "Optional title")
+
 2. Categorize the names into 4 categories to capture the type of popularity for each name: 
 "Trendy" when total qty is higher than 0, less than 20
 "Semi-Trendy" when total qty is higher than 20, less than 50
