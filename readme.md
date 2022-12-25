@@ -5,7 +5,7 @@
 ## Scope:
 
 
-1. Check which names stood out by summinjg the total babies with each first name, grouping by those names that appears in all 101 years
+1. Check which names stood out by summing the total babies with each first name, grouping by those names that appears in all 101 years
 <br>
 
 SQL Query: <br>
