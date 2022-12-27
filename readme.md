@@ -1,6 +1,6 @@
 # SQL PROJECT - AMERICAN BABY NAMES
 
-## Project in SQL to analyze how have American baby name changed since 1920 and understand the trends.
+## Project in SQL to analyze how have American baby names changed since 1920 and understand the trends.
 
 ## Scope:
 
